@@ -15,3 +15,5 @@
 - **Excel Analysis Using SUMIF, AVERAGEIF, VLOOKUP, SWITCH & PivotTables**
 - **Retail Data Analytics Using Excel Functions, PivotTables & Interactive Charts**
 - **Comprehensive Excel Workflow: Cleaning, Analysis & Dashboarding**
+
+<img width="766" height="431" alt="image" src="https://github.com/user-attachments/assets/fb12d417-99ca-4175-9b43-674e3b1fb703" />
